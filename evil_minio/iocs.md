@@ -1,4 +1,5 @@
 ## New Attack Vector In The Cloud: Attackers caught exploiting Object Storage Services
+Read full report in the following [link](https://www.securityjoes.com/post/new-attack-vector-in-the-cloud-attackers-caught-exploiting-object-storage-services).
 
 ### Related Files
 
